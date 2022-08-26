@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsper/static/css/main.abd64e84.css",
+    "main.js": "/newsper/static/js/main.09abf8d9.js",
+    "static/js/787.e3ec0594.chunk.js": "/newsper/static/js/787.e3ec0594.chunk.js",
+    "index.html": "/newsper/index.html",
+    "main.abd64e84.css.map": "/newsper/static/css/main.abd64e84.css.map",
+    "main.09abf8d9.js.map": "/newsper/static/js/main.09abf8d9.js.map",
+    "787.e3ec0594.chunk.js.map": "/newsper/static/js/787.e3ec0594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.09abf8d9.js"
+  ]
+}
